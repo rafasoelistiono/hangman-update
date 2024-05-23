@@ -1,4 +1,4 @@
-let myStrings = ["Thailand", "Singapura", "Indonesia", "Vietnam", "Malaysia"];
+let myStrings = ["Thailand", "Singapura", "Indonesia", "Vietnam", "Malaysia","Brunei Darussalam"];
 
 function getRandomString(strings) {
     let randomIndex = Math.floor(Math.random() * strings.length);
